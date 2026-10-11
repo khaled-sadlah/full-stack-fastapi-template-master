@@ -1,3 +1,5 @@
+> **Repository context:** This is a reference copy of the [Full Stack FastAPI Template](https://github.com/fastapi/full-stack-fastapi-template). The template and its upstream documentation are preserved below. This repository is distinct from my [Cypress automation suite](https://github.com/khaled-sadlah/fastapi-cypress-automation).
+
 # Full Stack FastAPI Template
 
 <a href="https://github.com/fastapi/full-stack-fastapi-template/actions?query=workflow%3A%22Test+Docker+Compose%22" target="_blank"><img src="https://github.com/fastapi/full-stack-fastapi-template/workflows/Test%20Docker%20Compose/badge.svg" alt="Test Docker Compose"></a>
